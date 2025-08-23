@@ -1,11 +1,11 @@
-📊 Data Analytics Portfolio - Adarsh Kamble
+**📊 Data Analytics Portfolio - Adarsh Kamble**
 
 Welcome to my Power BI Projects Portfolio!
 This repository highlights my work in data analysis, visualization, and business intelligence using Power BI, Excel, SQL, and Python.
 I am passionate about turning raw datasets into actionable insights and creating dashboards that enable data-driven decision making.
 
 
-1. 🚀 DocCreate App Summary
+**1. 🚀 DocCreate App Summary**
 🔎 Project Overview
 
 This dashboard analyzes application usage and adoption trends across accounts, subscriptions, and geographies.
@@ -41,8 +41,9 @@ SQL (Data Pre-processing)
 DAX for KPIs
 
 📸 Dashboard Preview
+![DocCreate App Summary](https://github.com/user-attachments/assets/b4d38ce4-2989-4904-9eac-9c50f521cdcf)
 
-2. 👥 HR Analytics - Employee Attrition Report
+**2. 👥 HR Analytics - Employee Attrition Report**
 🔎 Project Overview
 
 This report evaluates employee attrition patterns to support HR teams in workforce planning and retention strategies.
@@ -76,11 +77,10 @@ DAX for Attrition KPIs
 Excel (HR Data Pre-cleaning)
 
 📸 Dashboard Preview
+![HR Analytics Attrition Summary](https://github.com/user-attachments/assets/f13a7028-94ff-478b-b1e7-fa59b49f431f)
 
 
-
-
-3. 🏨 Hotel Booking Dashboard - Summary Analysis
+**3. 🏨 Hotel Booking Dashboard - Summary Analysis**
 🔎 Project Overview
 
 This dashboard summarizes hotel booking patterns, cancellations, and customer segmentation.
@@ -114,8 +114,9 @@ DAX (Booking KPIs)
 Excel for Preprocessing
 
 📸 Dashboard Preview
+![Hotel Booking Summary p1](https://github.com/user-attachments/assets/79242826-50ac-41fd-928c-f9adbbe3c31e)
 
-4. 💰 Hotel Revenue Dashboard
+**4. 💰 Hotel Revenue Dashboard**
 🔎 Project Overview
 
 This dashboard provides insights into revenue generation, cancellations, and repeat bookings for city and resort hotels.
@@ -149,6 +150,7 @@ DAX (Revenue KPIs)
 SQL (Revenue Data Prep)
 
 📸 Dashboard Preview
+![hotel Revenue Report p2](https://github.com/user-attachments/assets/004f17b1-41c3-40d6-8c3f-05b59b937cab)
 
 🛠️ Skills & Tools
 
