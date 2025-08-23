@@ -161,7 +161,7 @@ Insights into **revenue generation, cancellations, and repeat bookings** for Cit
 👤 **Name:** Adarsh Kamble
 📧 **Email:** [adarshkamble120@gmail.com](mailto:adarshkamble120@gmail.com)
 💼 **LinkedIn:** [Adarsh Kamble](https://www.linkedin.com/in/adarsh-kamble-6a983b224)
-📂 **GitHub Portfolio:** [Adarsh Kamble](https://github.com/AdarshKamble)
+📂 **GitHub Portfolio:** [Adarsh Kamble](https://github.com/Adarshkamble120/Adarsh-s_portfolio)
 
 ---
 
