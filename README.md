@@ -1,185 +1,171 @@
 
-📊 Data Analytics Portfolio - Adarsh Kamble
-👋 About Me
 
-Hi, I’m Adarsh Kamble 👨‍💻 — a passionate Data Analyst skilled in Power BI, SQL, and Excel.
-I love solving business problems by transforming raw data into actionable insights and designing interactive dashboards that empower data-driven decision making.
+# 📊 Data Analytics Portfolio - Adarsh Kamble
 
-📂 Project Showcase
-Project	Description	Preview	Tools
-🚀 DocCreate App Summary	App usage & adoption trends	
-	Power BI, SQL, DAX
-👥 HR Analytics - Attrition	Employee attrition analysis	
-	Power BI, Excel, DAX
-🏨 Hotel Booking Dashboard	Booking patterns & cancellations	
-	Power BI, Excel, DAX
-💰 Hotel Revenue Dashboard	Revenue trends & cancellations	
-	Power BI, SQL, DAX
-📊 Projects in Detail
-1. 🚀 DocCreate App Summary
+---
 
-🔎 Project Overview
-Analysis of application usage and adoption trends across accounts, subscriptions, and geographies.
+## 👋 About Me
 
-🚀 Key Features
+Hi, I’m **Adarsh Kamble** 👨‍💻 — a passionate **Data Analyst** skilled in **Power BI, SQL, and Excel**.
+I love solving business problems by transforming **raw data into actionable insights** and designing **interactive dashboards** that empower **data-driven decision making**.
 
-183 Installed Accounts with tier-wise breakdown
+---
 
-Uninstall Tracking (29 accounts)
+## 📂 Project Showcase
 
-Trial Conversion & Sandbox Activity Analysis
+| Project                         | Description                      | Preview                                                                                     | Tools                |
+| ------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------- | -------------------- |
+| 🚀 **DocCreate App Summary**    | App usage & adoption trends      | ![Preview](https://github.com/user-attachments/assets/b4d38ce4-2989-4904-9eac-9c50f521cdcf) | Power BI, SQL, DAX   |
+| 👥 **HR Analytics - Attrition** | Employee attrition analysis      | ![Preview](https://github.com/user-attachments/assets/f13a7028-94ff-478b-b1e7-fa59b49f431f) | Power BI, Excel, DAX |
+| 🏨 **Hotel Booking Dashboard**  | Booking patterns & cancellations | ![Preview](https://github.com/user-attachments/assets/79242826-50ac-41fd-928c-f9adbbe3c31e) | Power BI, Excel, DAX |
+| 💰 **Hotel Revenue Dashboard**  | Revenue trends & cancellations   | ![Preview](https://github.com/user-attachments/assets/004f17b1-41c3-40d6-8c3f-05b59b937cab) | Power BI, SQL, DAX   |
 
-Monthly & Country-wise Installations
+---
 
-Average Days Since Installation by subscription tier
+## 📊 Projects in Detail
 
-📊 Visual Insights
+---
 
-Pro & Standard tiers dominate usage
+### 1. 🚀 **DocCreate App Summary**
 
-US market leads in adoption
+**🔎 Project Overview**
+Analysis of **application usage and adoption trends** across accounts, subscriptions, and geographies.
 
-Sandbox accounts (63) indicate strong trial engagement
+**🚀 Key Features**
 
-July showed maximum installations
+* **183 Installed Accounts** with tier-wise breakdown
+* **Uninstall Tracking** (29 accounts)
+* **Trial Conversion & Sandbox Activity Analysis**
+* **Monthly & Country-wise Installations**
+* **Average Days Since Installation** by subscription tier
 
-🛠️ Tools Used
+**📊 Visual Insights**
 
-Power BI
+* **Pro & Standard tiers** dominate usage
+* **US market** leads in adoption
+* **Sandbox accounts (63)** indicate strong trial engagement
+* **July** showed maximum installations
 
-SQL (Data Pre-processing)
+**🛠️ Tools Used**
 
-DAX for KPIs
+* Power BI
+* SQL (Data Pre-processing)
+* DAX for KPIs
 
-📸 Dashboard Preview
+**📸 Dashboard Preview**
+![DocCreate App Summary](https://github.com/user-attachments/assets/b4d38ce4-2989-4904-9eac-9c50f521cdcf)
 
+---
 
-2. 👥 HR Analytics - Employee Attrition Report
+### 2. 👥 **HR Analytics - Employee Attrition Report**
 
-🔎 Project Overview
-Evaluation of employee attrition patterns to support HR in workforce planning & retention strategies.
+**🔎 Project Overview**
+Evaluation of **employee attrition patterns** to support HR in workforce planning & retention strategies.
 
-🚀 Key Features
+**🚀 Key Features**
 
-1480 Employees analyzed
+* **1480 Employees** analyzed
+* **Attrition Count: 238 (16.08%)**
+* Breakdown by **Age, Job Role, Salary Slab, Education Field, Job Level**
+* **Environment Satisfaction Impact** on attrition
 
-Attrition Count: 238 (16.08%)
+**📊 Visual Insights**
 
-Breakdown by Age, Job Role, Salary Slab, Education Field, Job Level
+* **26–35 age group** has highest attrition
+* **Salary < 5k** drives maximum exits (753 cases)
+* **Sales Executives & Research roles** most impacted
+* Low **environment satisfaction** = higher turnover
 
-Environment Satisfaction Impact on attrition
+**🛠️ Tools Used**
 
-📊 Visual Insights
+* Power BI
+* DAX (Attrition KPIs)
+* Excel (Data Cleaning)
 
-26–35 age group has highest attrition
+**📸 Dashboard Preview**
+![HR Analytics Attrition Summary](https://github.com/user-attachments/assets/f13a7028-94ff-478b-b1e7-fa59b49f431f)
 
-Salary < 5k drives maximum exits (753 cases)
+---
 
-Sales Executives & Research roles most impacted
+### 3. 🏨 **Hotel Booking Dashboard - Summary Analysis**
 
-Low environment satisfaction = higher turnover
+**🔎 Project Overview**
+Summary of **hotel booking patterns, cancellations, and customer segmentation**.
 
-🛠️ Tools Used
+**🚀 Key Features**
 
-Power BI
+* **119,390 Total Bookings**
+* **75,166 Completed** | **44,224 Canceled**
+* Customer Overview: **Adults, Children, Babies**
+* **Market Channel Segmentation** (Online TA, Groups, Corporate, etc.)
+* **Monthly Reservation Trends**
 
-DAX (Attrition KPIs)
+**📊 Visual Insights**
 
-Excel (Data Cleaning)
+* **Online Travel Agencies** contributed the most bookings
+* **July–August** = peak booking season
+* **High cancellations** → customer commitment issues
 
-📸 Dashboard Preview
+**🛠️ Tools Used**
 
+* Power BI
+* DAX (KPIs)
+* Excel (Preprocessing)
 
-3. 🏨 Hotel Booking Dashboard - Summary Analysis
+**📸 Dashboard Preview**
+![Hotel Booking Summary p1](https://github.com/user-attachments/assets/79242826-50ac-41fd-928c-f9adbbe3c31e)
 
-🔎 Project Overview
-Summary of hotel booking patterns, cancellations, and customer segmentation.
+---
 
-🚀 Key Features
+### 4. 💰 **Hotel Revenue Dashboard**
 
-119,390 Total Bookings
+**🔎 Project Overview**
+Insights into **revenue generation, cancellations, and repeat bookings** for City vs Resort hotels.
 
-75,166 Completed | 44,224 Canceled
+**🚀 Key Features**
 
-Customer Overview: Adults, Children, Babies
+* **11.64M Total Revenue**
+* **37.07% Cancellation Rate**
+* **City Hotel vs Resort Hotel Revenue Split**
+* Month-wise **Completed vs Canceled Bookings**
+* Repeat bookings by **Market Segments**
 
-Market Channel Segmentation (Online TA, Groups, Corporate, etc.)
+**📊 Visual Insights**
 
-Monthly Reservation Trends
+* **Resort Hotels** generated higher revenue (6.83M vs 4.81M)
+* **Online TA** is the strongest repeat booking source
+* **Cancellations peaked mid-year (Q2–Q3)**
 
-📊 Visual Insights
+**🛠️ Tools Used**
 
-Online Travel Agencies contributed the most bookings
+* Power BI
+* SQL (Data Prep)
+* DAX (Revenue KPIs)
 
-July–August = peak booking season
+**📸 Dashboard Preview**
+![hotel Revenue Report p2](https://github.com/user-attachments/assets/004f17b1-41c3-40d6-8c3f-05b59b937cab)
 
-High cancellations → customer commitment issues
+---
 
-🛠️ Tools Used
+## 🛠️ Skills & Tools
 
-Power BI
+* **Data Visualization:** Power BI, Tableau
+* **Data Analysis:** SQL (MySQL, Snowflake), Excel (Advanced)
+* **Business Intelligence:** Power Query, DAX, ETL, Power Automate, Power Apps, SharePoint
+* **Other:** Data Manipulation, Reporting, Dashboard Design
 
-DAX (KPIs)
+---
 
-Excel (Preprocessing)
+## 📬 Contact Me
 
-📸 Dashboard Preview
+👤 **Name:** Adarsh Kamble
+📧 **Email:** [adarshkamble120@gmail.com](mailto:adarshkamble120@gmail.com)
+💼 **LinkedIn:** [Adarsh Kamble](https://www.linkedin.com/in/adarsh-kamble-6a983b224)
+📂 **GitHub Portfolio:** [Adarsh Kamble](https://github.com/AdarshKamble)
 
+---
 
-4. 💰 Hotel Revenue Dashboard
-
-🔎 Project Overview
-Insights into revenue generation, cancellations, and repeat bookings for City vs Resort hotels.
-
-🚀 Key Features
-
-11.64M Total Revenue
-
-37.07% Cancellation Rate
-
-City Hotel vs Resort Hotel Revenue Split
-
-Month-wise Completed vs Canceled Bookings
-
-Repeat bookings by Market Segments
-
-📊 Visual Insights
-
-Resort Hotels generated higher revenue (6.83M vs 4.81M)
-
-Online TA is the strongest repeat booking source
-
-Cancellations peaked mid-year (Q2–Q3)
-
-🛠️ Tools Used
-
-Power BI
-
-SQL (Data Prep)
-
-DAX (Revenue KPIs)
-
-📸 Dashboard Preview
-
-
-🛠️ Skills & Tools
-
-Data Visualization: Power BI, Tableau
-
-Data Analysis: SQL (MySQL, Snowflake), Excel (Advanced)
-
-Business Intelligence: Power Query, DAX, ETL, Power Automate, Power Apps, SharePoint
-
-Other: Data Manipulation, Reporting, Dashboard Design
-
-📬 Contact Me
-
-👤 Name: Adarsh Kamble
-📧 Email: adarshkamble120@gmail.com
-
-💼 LinkedIn: Adarsh Kamble
-
-📂 GitHub Portfolio: Adarsh Kamble
-
-✨ Thank you for visiting my portfolio!
+✨ *Thank you for visiting my portfolio!*
 Feel free to explore, ⭐ star my repo, and connect with me.
+
+---
