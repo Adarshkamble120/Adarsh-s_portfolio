@@ -1,171 +1,170 @@
-
-
-# 📊 Data Analytics Portfolio - Adarsh Kamble
+# 📊 Data Analytics Portfolio — Adarsh Kamble
 
 ---
 
 ## 👋 About Me
 
-Hi, I’m **Adarsh Kamble** 👨‍💻 — a passionate **Data Analyst** skilled in **Power BI, SQL, and Excel**.
-I love solving business problems by transforming **raw data into actionable insights** and designing **interactive dashboards** that empower **data-driven decision making**.
+Hey — I’m **Adarsh Kamble** 👨‍💻, a results-driven **Data Analyst** specializing in **Power BI, SQL, and Excel**.  
+I design clean, business-focused dashboards and turn complex datasets into **actionable insights** that help teams make faster, smarter decisions.  
+*Focus areas: data modeling, KPI design, dashboard UX, and data storytelling.*
 
 ---
 
-## 📂 Project Showcase
+## 💼 Project Showcase
 
-| Project                         | Description                      | Preview                                                                                     | Tools                |
-| ------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------- | -------------------- |
-| 🚀 **DocCreate App Summary**    | App usage & adoption trends      | ![Preview](https://github.com/user-attachments/assets/b4d38ce4-2989-4904-9eac-9c50f521cdcf) | Power BI, SQL, DAX   |
-| 👥 **HR Analytics - Attrition** | Employee attrition analysis      | ![Preview](https://github.com/user-attachments/assets/f13a7028-94ff-478b-b1e7-fa59b49f431f) | Power BI, Excel, DAX |
-| 🏨 **Hotel Booking Dashboard**  | Booking patterns & cancellations | ![Preview](https://github.com/user-attachments/assets/79242826-50ac-41fd-928c-f9adbbe3c31e) | Power BI, Excel, DAX |
-| 💰 **Hotel Revenue Dashboard**  | Revenue trends & cancellations   | ![Preview](https://github.com/user-attachments/assets/004f17b1-41c3-40d6-8c3f-05b59b937cab) | Power BI, SQL, DAX   |
-
----
-
-## 📊 Projects in Detail
-
----
-
-### 1. 🚀 **DocCreate App Summary**
-
-**🔎 Project Overview**
-Analysis of **application usage and adoption trends** across accounts, subscriptions, and geographies.
-
-**🚀 Key Features**
-
-* **183 Installed Accounts** with tier-wise breakdown
-* **Uninstall Tracking** (29 accounts)
-* **Trial Conversion & Sandbox Activity Analysis**
-* **Monthly & Country-wise Installations**
-* **Average Days Since Installation** by subscription tier
-
-**📊 Visual Insights**
-
-* **Pro & Standard tiers** dominate usage
-* **US market** leads in adoption
-* **Sandbox accounts (63)** indicate strong trial engagement
-* **July** showed maximum installations
-
-**🛠️ Tools Used**
-
-* Power BI
-* SQL (Data Pre-processing)
-* DAX for KPIs
-
-**📸 Dashboard Preview**
-![DocCreate App Summary](https://github.com/user-attachments/assets/b4d38ce4-2989-4904-9eac-9c50f521cdcf)
+| Project | Short Description | Preview | Tools |
+|---|---|:---:|:---|
+| 🌍 **Marlboro Global Market & Sales Analysis** | 5-page Power BI suite: executive summary, sales, market share, product performance, consumer insights. | ![Marlboro Exec Summary](![Marlboro Executive Summary](https://github.com/user-attachments/assets/33e58703-e4ec-41d6-8ef8-fc886764e764)
+) | Power BI · SQL · DAX |
+| 🚀 **DocCreate App Summary** | App adoption, trial conversions, tier & country analysis. | ![DocCreate Preview](![DocCreate App Summary](https://github.com/user-attachments/assets/82cba6b6-02e4-4f2d-bad1-9ff11ef40fd8)
+](https://github.com/user-attachments/assets/b4d38ce4-2989-4904-9eac-9c50f521cdcf)) | Power BI · SQL · DAX |
+| 👥 **HR Analytics – Attrition Report** | Attrition drivers, retention KPIs, role & salary analysis. | ![HR Attrition](![HR Analytics Attrition Summary](https://github.com/user-attachments/assets/142dc7bc-f770-4b36-92bf-78f4ffcf10ec)
+) | Power BI · Excel · DAX |
+| 🏨 **Hotel Booking Dashboard** | Booking trends, cancellations, seasonality & channel segmentation. | ![Hotel Booking](![Hotel Booking Summary p1](https://github.com/user-attachments/assets/b8bfb9ea-4f45-43db-9103-d2ab27354e62)
+) | Power BI · Excel · DAX |
+| 💰 **Hotel Revenue Dashboard** | Revenue, cancellations, repeat bookings — city vs resort comparison. | ![Hotel Revenue](![hotel Revenue Report p2](https://github.com/user-attachments/assets/387cac76-6e30-4832-947d-aa17fe913347)
+) | Power BI · SQL · DAX |
 
 ---
 
-### 2. 👥 **HR Analytics - Employee Attrition Report**
+## 🌍 Marlboro Global Market & Sales Analysis
 
-**🔎 Project Overview**
-Evaluation of **employee attrition patterns** to support HR in workforce planning & retention strategies.
-
-**🚀 Key Features**
-
-* **1480 Employees** analyzed
-* **Attrition Count: 238 (16.08%)**
-* Breakdown by **Age, Job Role, Salary Slab, Education Field, Job Level**
-* **Environment Satisfaction Impact** on attrition
-
-**📊 Visual Insights**
-
-* **26–35 age group** has highest attrition
-* **Salary < 5k** drives maximum exits (753 cases)
-* **Sales Executives & Research roles** most impacted
-* Low **environment satisfaction** = higher turnover
-
-**🛠️ Tools Used**
-
-* Power BI
-* DAX (Attrition KPIs)
-* Excel (Data Cleaning)
-
-**📸 Dashboard Preview**
-![HR Analytics Attrition Summary](https://github.com/user-attachments/assets/f13a7028-94ff-478b-b1e7-fa59b49f431f)
+**📊 Power BI · SQL · DAX · Data Storytelling**  
+A polished **5-page Power BI** dashboard delivering comprehensive global insights into Marlboro’s sales, market share, products, and consumers. Built with a dark, modern UI and advanced DAX measures.
 
 ---
 
-### 3. 🏨 **Hotel Booking Dashboard - Summary Analysis**
+### 1️⃣ Executive Summary
+- **Purpose:** Quick business snapshot (Total Revenue, Units, Profit).  
+- **Highlights:** Top countries, revenue trend, KPI cards & world map.  
 
-**🔎 Project Overview**
-Summary of **hotel booking patterns, cancellations, and customer segmentation**.
-
-**🚀 Key Features**
-
-* **119,390 Total Bookings**
-* **75,166 Completed** | **44,224 Canceled**
-* Customer Overview: **Adults, Children, Babies**
-* **Market Channel Segmentation** (Online TA, Groups, Corporate, etc.)
-* **Monthly Reservation Trends**
-
-**📊 Visual Insights**
-
-* **Online Travel Agencies** contributed the most bookings
-* **July–August** = peak booking season
-* **High cancellations** → customer commitment issues
-
-**🛠️ Tools Used**
-
-* Power BI
-* DAX (KPIs)
-* Excel (Preprocessing)
-
-**📸 Dashboard Preview**
-![Hotel Booking Summary p1](https://github.com/user-attachments/assets/79242826-50ac-41fd-928c-f9adbbe3c31e)
+📸 *Insert image:*  
+`![Marlboro Executive Summary](![Marlboro Executive Summary](https://github.com/user-attachments/assets/f8198acf-97ff-42ab-8a12-557d51901ff5)
+)`
 
 ---
 
-### 4. 💰 **Hotel Revenue Dashboard**
+### 2️⃣ Sales Analysis
+- **Purpose:** Analyze units, revenue, cost per unit, profit by region and month.  
+- **Highlights:** YoY growth, month-over-month trends, regional comparisons.
 
-**🔎 Project Overview**
-Insights into **revenue generation, cancellations, and repeat bookings** for City vs Resort hotels.
-
-**🚀 Key Features**
-
-* **11.64M Total Revenue**
-* **37.07% Cancellation Rate**
-* **City Hotel vs Resort Hotel Revenue Split**
-* Month-wise **Completed vs Canceled Bookings**
-* Repeat bookings by **Market Segments**
-
-**📊 Visual Insights**
-
-* **Resort Hotels** generated higher revenue (6.83M vs 4.81M)
-* **Online TA** is the strongest repeat booking source
-* **Cancellations peaked mid-year (Q2–Q3)**
-
-**🛠️ Tools Used**
-
-* Power BI
-* SQL (Data Prep)
-* DAX (Revenue KPIs)
-
-**📸 Dashboard Preview**
-![hotel Revenue Report p2](https://github.com/user-attachments/assets/004f17b1-41c3-40d6-8c3f-05b59b937cab)
+📸 *Insert image:*  
+`![Marlboro Sales Analysis](![Marlboro Sales analysis](https://github.com/user-attachments/assets/cc6fb580-8345-4cb2-a1af-48222bde4c9c)
+)`
 
 ---
 
-## 🛠️ Skills & Tools
+### 3️⃣ Market Share Analysis
+- **Purpose:** Competitive positioning & market share by country and region.  
+- **Highlights:** Weighted market share, competitor breakdown, revenue decomposition.
 
-* **Data Visualization:** Power BI, Tableau
-* **Data Analysis:** SQL (MySQL, Snowflake), Excel (Advanced)
-* **Business Intelligence:** Power Query, DAX, ETL, Power Automate, Power Apps, SharePoint
-* **Other:** Data Manipulation, Reporting, Dashboard Design
-
----
-
-## 📬 Contact Me
-
-👤 **Name:** Adarsh Kamble
-📧 **Email:** [adarshkamble120@gmail.com](mailto:adarshkamble120@gmail.com)
-💼 **LinkedIn:** [Adarsh Kamble](https://www.linkedin.com/in/adarsh-kamble-6a983b224)
-📂 **GitHub Portfolio:** [Adarsh Kamble](https://github.com/Adarshkamble120/Adarsh-s_portfolio)
+📸 *Insert image:*  
+`![Marlboro Market Share](![Marlboro Market share analysis](https://github.com/user-attachments/assets/2a4f8095-bd7f-46b1-a4bb-7afb01ea5f09)
+)`
 
 ---
 
-✨ *Thank you for visiting my portfolio!*
-Feel free to explore, ⭐ star my repo, and connect with me.
+### 4️⃣ Product Performance
+- **Purpose:** SKU-level revenue, units sold, avg price & profitability.  
+- **Highlights:** Product ranking, country-wise product contribution.
+
+📸 *Insert image:*  
+`![Marlboro Product Performance](![Marlboro Product Performance](https://github.com/user-attachments/assets/a0b8933f-de0b-48cb-b96e-6c14dfa31308)
+)`
 
 ---
+
+### 5️⃣ Consumer Insights
+- **Purpose:** Loyalty, sentiment, demographic behavior & purchase patterns.  
+- **Highlights:** Loyalty score distribution, income-level preferences, channel behavior.
+
+📸 *Insert image:*  
+`![Marlboro Consumer Insights](![Marlboro Consumer insights](https://github.com/user-attachments/assets/b36b89de-9d85-42a7-8366-df2abfc3cfa8)
+)`
+
+---
+
+## 🚀 DocCreate App Summary
+
+**📊 Power BI · SQL · DAX**  
+**Overview:** App adoption & engagement dashboard across accounts, tiers, and geographies.
+
+**Key points**
+- 183 Installed Accounts (29 uninstalls tracked)  
+- Tier & country adoption breakdown  
+- Trial → Paid conversion and sandbox usage monitoring
+
+📸 *Insert image:*  
+`![DocCreate App Summary](![DocCreate App Summary](https://github.com/user-attachments/assets/064404cb-d1d7-46ab-aff4-d4f981c949b1)
+)`
+
+---
+
+## 👥 HR Analytics – Employee Attrition
+
+**📊 Power BI · Excel · DAX**  
+**Overview:** Attrition analysis to identify retention risks and improve workforce planning.
+
+**Key points**
+- 1480 employees analyzed — Attrition ~16.08%  
+- High attrition in 26–35 age group; salary & satisfaction drivers  
+- Role-level insights for Sales and Research teams
+
+📸 *Insert image:*  
+`![HR Analytics Attrition Summary](![HR Analytics Attrition Summary](https://github.com/user-attachments/assets/f1f8c66f-435e-47ba-8e76-797948bbc3bb)
+)`
+
+---
+
+## 🏨 Hotel Booking Dashboard
+
+**📊 Power BI · Excel · DAX**  
+**Overview:** Booking behavior, cancellations, and customer segmentation for hotels.
+
+**Key points**
+- ~119K bookings; ~37% cancellations  
+- Booking source split: Online TA leads  
+- Seasonality: July–August peak
+
+📸 *Insert image:*  
+`![Hotel Booking Summary](![Hotel Booking Summary p1](https://github.com/user-attachments/assets/dfa016d9-f478-46f5-89a9-fd9a62ef5b1e)
+)`
+
+---
+
+## 💰 Hotel Revenue Dashboard
+
+**📊 Power BI · SQL · DAX**  
+**Overview:** Revenue analysis — city vs resort hotels, cancellation impact, repeat customers.
+
+**Key points**
+- Total Revenue: **$11.64M**  
+- Cancellation Rate: **37.07%**  
+- Resort hotels show stronger revenue share
+
+📸 *Insert image:*  
+`![Hotel Revenue Report](![hotel Revenue Report p2](https://github.com/user-attachments/assets/3ea94d08-8c67-4c16-a171-c936b8a5b1f1)
+)`
+
+---
+
+## 🧰 Skills & Tools
+
+**Data Visualization:** Power BI · Tableau  
+**Data Analysis:** SQL (MySQL, Snowflake) · Advanced Excel  
+**BI & Automation:** Power Query · DAX · ETL · Power Automate · Power Apps  
+**Other:** Data Modeling · Dashboard Design · Storytelling with Data
+
+---
+
+## 📫 Contact
+
+👤 **Name:** Adarsh Kamble  
+📧 **Email:** [adarshkamble120@gmail.com](mailto:adarshkamble120@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/adarsh-kamble-6a983b224](https://www.linkedin.com/in/adarsh-kamble-6a983b224)  
+📂 **GitHub Portfolio:** [github.com/Adarshkamble120/Adarsh-s_portfolio](https://github.com/Adarshkamble120/Adarsh-s_portfolio)
+
+---
+
+✨ *Thanks for visiting my portfolio!*  
+If you found this useful, feel free to ⭐ the repo and connect with me on LinkedIn.
